@@ -21,4 +21,4 @@ Công nghệ sử dụng:
 
 Video demo:
 
-[![Watch the video](https://github.com/viethoangpham1192/Computer-graphics/blob/main/video/My%20first%20three.js%20app%20-%20Google%20Chrome%202020-11-27%2001-04-12.mp4)
+[Video](https://github.com/viethoangpham1192/Computer-graphics/blob/main/video/My%20first%20three.js%20app%20-%20Google%20Chrome%202020-11-27%2001-04-12.mp4)
